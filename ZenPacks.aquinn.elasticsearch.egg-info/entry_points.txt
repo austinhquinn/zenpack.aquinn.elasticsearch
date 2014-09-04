@@ -1,0 +1,3 @@
+[zenoss.zenpacks]
+ZenPacks.aquinn.elasticsearch = ZenPacks.aquinn.elasticsearch
+
